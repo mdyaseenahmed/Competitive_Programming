@@ -1,1 +1,3 @@
-Max Frequenecy: 7 and the Character is: e
+green apple is not red apple
+-1
+1
