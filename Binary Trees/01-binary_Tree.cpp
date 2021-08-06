@@ -15,6 +15,33 @@ struct Node {
     }
 };
 
+void preOrder(Node* root)
+{
+    if(root == NULL)
+        return ;
+    cout << root->data << " ";
+    preOrder(root->left);
+    preOrder(root->right);
+}
+
+void postOrder(Node* root)
+{
+    if(root == NULL)
+        return ;
+    postOrder(root->left);
+    postOrder(root->right);
+    cout << root->data << " ";
+}
+
+void inOrder(Node* root)
+{
+    if(root == NULL)
+        return ;
+    inOrder(root->left);
+    cout << root->data << " ";
+    inOrder(root->right);
+}
+
 int main()
 {
     #ifndef ONLINE_JUDGE
@@ -27,6 +54,14 @@ int main()
     root->right = new Node(15);
     root->left->left = new Node(3);
     root->left->right = new Node(6);
+    root->right->left = new Node(12);
+    root->right->right = new Node(17);
+    cout << "Pre Order: ";
+    preOrder(root);                         // Pre Order: 10 5 3 6 15 12 17 
+    cout << "\nPost Order: ";
+    postOrder(root);                        // Post Order: 3 6 5 12 17 15 10 
+    cout << "\nIn Order : ";
+    inOrder(root);                          // In Order : 3 5 6 10 12 15 17 
 
     return 0;
 }

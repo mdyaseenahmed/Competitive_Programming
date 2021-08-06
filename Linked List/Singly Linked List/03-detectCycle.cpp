@@ -70,6 +70,31 @@ bool detectCycle(Node* head)
     return false;
 }
 
+Node* removeCycle(Node* head)
+{
+    if(head == NULL)
+        return head;
+    Node* slow = head;
+    Node* fast = head;
+    while(fast != NULL & fast->next  != NULL)
+    {
+        slow = slow->next;
+        fast = fast->next->next;
+
+        if(slow == fast)
+        {
+            fast = head;
+            while(fast->next == slow->next)
+            {
+                slow->next = NULL;
+                fast = head;
+                return fast;
+            }
+        }
+    }
+    return fast;
+}
+
 int main()
 {
     #ifndef ONLINE_JUDGE
@@ -84,8 +109,10 @@ int main()
     insert_end(head, 25);
     insert_end(head, 30);
     display(head);
-    // makeCycle(head);                     // Make the pointer of last Node i.e., 30 to point to the 2nd Node i.e., 15
+    makeCycle(head);                        // Make the pointer of last Node i.e., 30 to point to the 2nd Node i.e., 15
     // display(head);                       // When the above line is Uncommented & display() function is called program will enter into infinite loop & keeps on printing the list contents from 2nd Node to 5th Node. 
     cout << detectCycle(head);              // 1
+    head = removeCycle(head);
+    cout << detectCycle(head); 
     return 0;
 }
