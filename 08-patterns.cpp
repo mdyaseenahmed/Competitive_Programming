@@ -95,7 +95,7 @@ int main(int argc, char const *argv[])
     //     cout << endl;
     // }
     /*
-        Input: 5
+        Input: 5    
         Output:         * 
                       * * 
                     * * * 
@@ -472,5 +472,24 @@ int main(int argc, char const *argv[])
                  4 4 
                  5 
     */
+
+    // (18) Print Z
+    int n;
+    cin >> n;
+    for(int i = 1; i <= n; i++)
+    {
+        for(int j = 1; j <= n; j++)
+        {
+            if(i == 1 || i == n || j == n-i+1)
+            {
+              cout << "* ";
+            }
+            else
+            {
+              cout << "  ";
+            }
+        }
+        cout << endl;
+    }
     return 0;
 } 

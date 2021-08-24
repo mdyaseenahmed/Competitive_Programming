@@ -17,18 +17,18 @@ int main(int argc, char const *argv[])
     b = ++a;
     cout << "a: " << a << " b: " << b << endl;  // a: 11 b: 11
     
-    // Post Increment: It First Assingns / Use the value then increments it.
+    // Post Increment: It First Assings / Use the value then increments it.
     int c = 10;
     int d;
 
     d = c++;
     cout << "c: " << c << " d: " << d << endl;  // c: 11 d: 10
 
-    // Exapmles:
+    // Examples:
 
     // (1)
-    // int i = 1;
-    // i = i++ + ++i;
+    // int i = 1;           
+    // i = i++ + ++i;        
     // cout << "i : " << i << endl;   // i : 4
 
     // (2)

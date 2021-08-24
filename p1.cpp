@@ -1,37 +1,29 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+
 using namespace std;
 
-string nk(string arr, int n)
+int main(int argc, char const *argv[])
 {
-    unordered_map<char, int> freq;
-    int flag = 0;
-    for (int i = 0; i < n; i++)
-    {
-        freq[arr[i]]++;
-    }
-    for (auto i : freq)
-    {
-        if (i.second > n / 2)
-        {
-            flag = 1;
-        }
-    }
-    if (flag)
-    {
-        return "NO";
-    }
-    else
-    {
-        return "YES";
-    }
-}
+    #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+    #endif
 
-int main()
-{
-    string s1,s2;
-    cin >> s1;
-    int n = s1.length();
-    s2 = nk(s1, n);
-    cout << s2;
+    // string s = "Hello\nWorld\rhey\tthere";
+    // cout << s;
+
+    // int a = 12;
+    int b = 6;
+
+    // cout << a+~b+1;      // 6
+    cout << ~b;          // -7
+
+    // int a = 10, b = 20, c = 30, d = 40;
+    // a = a ^ b ^ (b = a);
+    // b = b ^ c ^ (c = b);
+    // c = c ^ d ^ (d = c);
+    // cout << "A: " << a << " B: "<< b << endl;
+    // cout << "C: " << c << " D "<< d;
+
     return 0;
 }

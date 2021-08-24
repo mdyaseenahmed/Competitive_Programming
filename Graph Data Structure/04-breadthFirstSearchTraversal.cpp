@@ -1,3 +1,4 @@
+/* Breadth First Search traversal of a Graph (Adjacency List)*/
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -55,7 +56,7 @@ int main()
     g.addEdge(2, 3);
     g.addEdge(3, 3);
 
-    g.breadthFirstSearch(1);
+    g.breadthFirstSearch(2);
 
     return 0;
 }
