@@ -1,2 +1,2 @@
-Sum of contiguous subarray maximum sum: 9
-Sum of contiguous subarray maximum sum: -1
+Minimum Operations Required: 3
+Minimum Operations Required: 7
