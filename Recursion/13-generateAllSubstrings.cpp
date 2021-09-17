@@ -41,7 +41,8 @@ int main()
                 bn
 
         We got the following,
-        Output: C
+        Output: 
+                C
                 B
                 BC
                 A

@@ -5,6 +5,11 @@
 
 using namespace std;
 
+// n: Number of Items
+// W: Capacity of the bag
+// val[]: price associated with the item.
+// weight[]: weight associated with the item.
+
 int knapSack(int val[], int weight[], int W, int n)
 {
     if(n == 0 || W == 0)                    // Base Condition

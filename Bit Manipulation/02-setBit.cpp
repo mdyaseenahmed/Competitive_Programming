@@ -21,10 +21,12 @@ void binaryRepresentation(int n)
     }
 }
 
-bool getBit(int n, int i) // n is the given number, i is the index
+void setBit(int n, int i) // n is the given number, i is the index
 {
     binaryRepresentation(n);
-    return (n & (1 << i));
+    int temp = (n | (1 << i));
+    binaryRepresentation(temp);
+    // return temp;
 }
 
 int main()
@@ -41,7 +43,8 @@ int main()
     {
         cin >> n;
         cin >> i;
-        cout << getBit(n, i) << endl;
+        setBit(n, i);
+        cout << endl;
     }
 
     /*
@@ -50,14 +53,14 @@ int main()
         
         Input:  3
                 0 2
-                3 0
-                5 2
+                3 4
+                5 1
 
         We got the following,
 
-        Output: 0 : 0 : 0                   // Decimal 0 : Binary Representation of 0 : 2nd Bit of Zero in Binary Representation
-                3 : 11 : 1
-                5 : 101 : 1
+        Output: 0 : 0 : 4 : 100 :               // Decimal 0 : Binary Representation 0 : After setting the 2nd bit we got 4 in decimal representation : Decimal representation of 4 is 100
+                3 : 11 : 19 : 10011 :           // Decimal 3 : Binary Representation 11 : After setting the 4th bit we got 19 in decimal representation : Decimal representation of 19 is 10011
+                5 : 101 : 7 : 111 : 
 
     */
 

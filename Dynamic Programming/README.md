@@ -1,3 +1,4 @@
 ### ```Dynamic Programming```
 
-1. 0 / 1 KnapSack Problem
+1. N<sup>th</sup> Fibonacci Number
+2. 0 / 1 KnapSack Problem
