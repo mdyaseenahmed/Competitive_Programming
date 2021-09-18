@@ -1,3 +1,6 @@
-0 : 0 : 4 : 100 : 
-3 : 11 : 19 : 10011 : 
-5 : 101 : 7 : 111 : 
+Binary Representation Of 3 is 11 & Number of Set Bits in 3 : 2
+Binary Representation Of 3 is 11 & Number of Set Bits in 3 Using Built in function is : 2
+Binary Representation Of 19 is 10011 & Number of Set Bits in 19 : 3
+Binary Representation Of 19 is 10011 & Number of Set Bits in 19 Using Built in function is : 3
+Binary Representation Of 32 is 100000 & Number of Set Bits in 32 : 1
+Binary Representation Of 32 is 100000 & Number of Set Bits in 32 Using Built in function is : 1
