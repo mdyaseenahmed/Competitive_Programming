@@ -1,7 +1,9 @@
-/* Breadth First Search traversal of a Graph (Adjacency List)*/
+/* Breadth First Search traversal of a Graph (Adjacency List). */
 #include<bits/stdc++.h>
 
 using namespace std;
+
+// Time Complexity: O(V+E) where V is the Number of Nodes(Vertices) and E is the number of Edges.
 
 class Graph
 {
@@ -18,7 +20,6 @@ class Graph
     {
         bool visited[10000];
         queue<int> q;
-
 
         q.push(src);
         visited[src] = true;
