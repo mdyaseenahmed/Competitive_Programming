@@ -1,4 +1,5 @@
 ### ```Searching Techniques```
 
-1. Linear Search
-2. Binary Search
+### `Important Links:`
+
+1. [Searching Algorithms (Geeksforgeeks)](https://www.geeksforgeeks.org/searching-algorithms/)

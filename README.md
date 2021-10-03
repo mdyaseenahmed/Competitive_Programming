@@ -1,12 +1,41 @@
-## ```Competitive Programming```
+## ```My Interview Preparation```
 
-### `Some Important Links:`
+### `Course Links:`
 
-1. [Top 50 Array Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
-2. [Top 50 String Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/)
-3. [Top 50 Dynamic Programming Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/)
-4. [Top 50 Trees Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/)
-5. [50+ Data Structure and Algorithms Interview Questions (HackerNoon)](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-6. [String C / C++ Programs (Geeksforgeeks)](https://www.geeksforgeeks.org/c-programs-gq/string-programs-gq/)
-7. [Top 40 Data Structure Interview Questions and Answers (interviewBit)](https://www.interviewbit.com/data-structure-interview-questions/)
-8. [Real-time application of Data Structures](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
+1. [C++ Full Course | C++ Tutorial | Data Structures & Algorithms | Apna College (YouTube)](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+2. [Java + DSA | Apna College (YouTube)](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+3. [DSA-One Course - The Complete Data Structures and Algorithms Course | Anuj Bhaiya (YouTube)](https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
+4. [Java + DSA + Interview Preparation Course | Kunal kushwaha (YouTube)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+5. [Binary Search | Interview Questions | Aditya Verma (YouTube)](https://youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+6. [Dynamic Programming Playlist | Interview Questions | Aditya Verma (YouTube)](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+7. [Dynamic Programming on Trees | Interview Questions | Aditya Verma (YouTube)](https://youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
+8. [Recursion Playlist | Interview Questions | Aditya Verma (YouTube)](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+9. [Stack Playlist | Interview Questions | Aditya Verma (YouTube)](https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+10. [Algorithms | Time Complexity Analysis | Recurrence Relation | Abdul Bari (YouTube)](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+11. [Graph Series | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+12. [Placement Series (Arrays, Sorting, Searching, Maths) | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2)
+13. [Competitive Programming/DSA Course | Hindi | Luv (YouTube)](https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+14. [Tree Series | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
+15. [Stacks and Queues | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
+16. [Binary Search | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0qYbL4TBaEWgb-ljVdhkM7R)
+17. [Placement Series(Recursion | Take U Forward (YouTube))](https://youtube.com/playlist?list=PLgUwDviBIf0rQ6cnlaHRMuOp4H_D-7hwP)
+18. [Greedy Algorithms | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0pmWCl2nepwGDO05a0-7EfJ)
+19. [Placement Series(2-pointer) | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0rBT8io74a95xT-hDFZonNs)
+20. [Placement Series(LinkedList) | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii)
+21. [Placement Series (Hashing) | Take U Forward (YouTube)](https://youtube.com/playlist?list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_)
+
+### `Important Links:`
+
+1. [C++ Programming Language (Geeksforgeeks)](https://www.geeksforgeeks.org/c-plus-plus/)
+2. [The C++ Standard Template Library | STL (Geeksforgeeks)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+3. [Object Oriented Programming in C++ (Geeksforgeeks)](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+3. [Top 50 Array Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+4. [Top 50 String Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/)
+5. [Top 50 Dynamic Programming Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/)
+6. [Top 50 Trees Coding Problems for Interviews (Geeksforgeeks).](https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/)
+7. [50+ Data Structure and Algorithms Interview Questions (HackerNoon)](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+8. [String C / C++ Programs (Geeksforgeeks)](https://www.geeksforgeeks.org/c-programs-gq/string-programs-gq/)
+9. [Top 40 Data Structure Interview Questions and Answers (InterviewBit)](https://www.interviewbit.com/data-structure-interview-questions/)
+10. [Real-time application of Data Structures](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
+11. [Placements Prepartion (Geeksforgeeks)](https://www.geeksforgeeks.org/placements-gq/)
+12. [Sorting And Searching Algorithms - Time Complexities Cheat Sheet (HackerEarth)](https://www.hackerearth.com/practice/notes/sorting-and-searching-algorithms-time-complexities-cheat-sheet/)
