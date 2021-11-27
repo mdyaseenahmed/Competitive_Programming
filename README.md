@@ -1,4 +1,4 @@
-## ```My Interview Preparation```
+## ```Competitive Programming```
 
 ### `Course Links:`
 
